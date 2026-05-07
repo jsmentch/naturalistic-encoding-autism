@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: naturalistic-encoding-autism
+message: >-
+  If you use this software, please cite the bioRxiv preprint (and the eLife
+  article once published). Preregistered analysis plans are on OSF (see README).
+type: software
+authors:
+  - family-names: Mentch
+    given-names: Jeff S.
+license: MIT
+repository-code: https://github.com/jsmentch/naturalistic-encoding-autism
+url: https://github.com/jsmentch/naturalistic-encoding-autism
+version: 0.1.0
+abstract: >-
+  Companion code for preregistered naturalistic movie-fMRI encoding analyses
+  (stacked ridge models, HRF-resampled features, multimodal predictors).
+keywords:
+  - fMRI
+  - encoding models
+  - naturalistic stimuli
+  - autism spectrum
+preferred-citation:
+  type: article
+  title: >-
+    Pregistered movie-fMRI analyses reveal altered visual feature encoding in
+    autism in pSTS
+  authors:
+    - family-names: Mentch
+      given-names: Jeff
+    - family-names: Chen
+      given-names: Yibei
+    - family-names: Vanderwal
+      given-names: Tamara
+    - family-names: Ghosh
+      given-names: Satrajit S.
+  year: 2026
+  doi: 10.64898/2026.03.23.713749
+  url: https://www.biorxiv.org/content/10.64898/2026.03.23.713749v1
