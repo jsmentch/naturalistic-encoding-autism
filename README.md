@@ -1,4 +1,4 @@
-# Naturalistic encoding and autism spectrum (portfolio release)
+# Naturalistic encoding and autism spectrum code
 
 This repository accompanies research on **encoding models** fit to fMRI data collected during **naturalistic movie and audio** stimuli, including work on autism spectrum and typical development. The codebase centers on **cross-validated ridge regression**, **quadratic-programming feature stacking** (following Wolpert-style stacking for continuous outputs), **HRF convolution** of high-rate sensory features, and utilities for loading multimodal predictors (audio CNNs, video embeddings, low-level vision, arousal, etc.).
 
@@ -7,7 +7,7 @@ This repository accompanies research on **encoding models** fit to fMRI data col
 | Resource | Link |
 |----------|------|
 | **bioRxiv preprint** | [*Pregistered movie-fMRI analyses reveal altered visual feature encoding in autism in pSTS*](https://www.biorxiv.org/content/10.64898/2026.03.23.713749v1.abstract) · doi [10.64898/2026.03.23.713749](https://doi.org/10.64898/2026.03.23.713749) |
-| **Peer review** | Accepted for review at **eLife** (update this README with the version of record once published). |
+| **Peer review** | Accepted for review at **eLife** (will be updated with the version of record once published). |
 | **Preregistered analysis plans (OSF)** | [osf.io/h92gr](https://osf.io/h92gr) · [osf.io/47kj6](https://osf.io/47kj6) |
 
 For reproducibility notes, tests, and a **pipeline ↔ manuscript** map, see [docs/reproducibility.md](docs/reproducibility.md).
@@ -85,7 +85,7 @@ Please cite the **bioRxiv** preprint (and the **eLife** article once available).
 
 > Mentch, J., Chen, Y., Vanderwal, T., & Ghosh, S. S. (2026). Pregistered movie-fMRI analyses reveal altered visual feature encoding in autism in pSTS. *bioRxiv*. [https://doi.org/10.64898/2026.03.23.713749](https://doi.org/10.64898/2026.03.23.713749)
 
-**eLife** — add volume, page, and doi here after the version of record is published.
+**eLife** — will add volume, page, and doi here after the version of record is published.
 
 ## Contributing
 
